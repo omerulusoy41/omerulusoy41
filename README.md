@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My episode Computer Enginnering.
+I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My episode is Computer Enginnering.
 I am in 2nd grade.
 ### Connect with me
 
