@@ -1,8 +1,10 @@
 ### Hi there 👋
 I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My departman is Computer Enginnering.
 I am in 2nd grade.
+## Connect with me 
+<img width=22 src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
 
-
+[linkedin]=https://www.linkedin.com/in/%C3%B6mer-faruk-ulusoy-540321228/
 <!--
 **omerulusoy41/omerulusoy41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
