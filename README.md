@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Ben Omer Faruk Ulusoy,Kocaeli Universitesi Bilgisayar Muhendisligi 2. sinif ogrencisiyim.
 <!--
 **omerulusoy41/omerulusoy41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
