@@ -11,8 +11,8 @@ I am in 2nd grade.
 <img width=22 src="https://unpkg.com/simple-icons@v6/icons/java.svg" align="left" />
 <img width=22 src="https://unpkg.com/simple-icons@v6/icons/html5.svg" align="left"/>
 <img width=22 src="https://unpkg.com/simple-icons@v6/icons/css3.svg" align="left"/>
-
-
+<img width=22 src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" align="left"/>
+<img width=22 src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" align="left"/>
 <!--
 **omerulusoy41/omerulusoy41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
