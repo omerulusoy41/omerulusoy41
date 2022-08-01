@@ -3,8 +3,9 @@ I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My departman is Comput
 I am in 2nd grade.
 ## experiences
 <div style="display=flex;justify-content=center">
-<img width=40 src="https://unpkg.com/simple-icons@v6/icons/c.svg" align="left" />
-<img width=40 src="https://unpkg.com/simple-icons@v6/icons/java.svg" align="left" />
+<img width=40 src="https://www.svgrepo.com/show/406064/letter-c.svg" align="left" />
+<img width=40 src="https://www.svgrepo.com/show/353622/c-sharp.svg" align="left"/>
+<img width=40 src="https://www.svgrepo.com/show/184143/java.svg" align="left" />
 <img width=40 src="https://unpkg.com/simple-icons@v6/icons/html5.svg" align="left"/>
 <img width=40 src="https://unpkg.com/simple-icons@v6/icons/css3.svg" align="left"/>
 <img width=40 src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" align="left"/>
