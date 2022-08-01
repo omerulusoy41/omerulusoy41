@@ -2,12 +2,17 @@
 I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My departman is Computer Enginnering.
 I am in 2nd grade.
 ## experiences
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/c.svg" align="left" />
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/java.svg" align="left" />
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/html5.svg" align="left"/>
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/css3.svg" align="left"/>
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" align="left"/>
-<img width=22 src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" align="left"/>
+<div style="display=flex;justify-content=center">
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/c.svg" align="left" />
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/java.svg" align="left" />
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/html5.svg" align="left"/>
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/css3.svg" align="left"/>
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" align="left"/>
+<img width=40 src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" align="left"/>
+<img width=40 src="https://www.svgrepo.com/show/331370/docker.svg"/>
+<img width=40 src="https://www.svgrepo.com/show/355081/js.svg"/>
+<img width=40 src="https://www.svgrepo.com/show/373547/db.svg"/>
+</div>
 <br>
 <hr>
 <br>
