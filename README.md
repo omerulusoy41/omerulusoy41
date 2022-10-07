@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My departman is Computer Enginnering.
-I am in 2nd grade.
+I am in 3nd grade.
 ## experiences
 <div style="display=flex;justify-content=center">
 <img width=40 src="https://www.svgrepo.com/show/406064/letter-c.svg" align="left" />
