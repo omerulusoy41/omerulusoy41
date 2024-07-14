@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **vmware products(Ex.vRa,vRo,vSphere),Kubernetes,Docker,Go,Java,Spring,C**
 
-- 📫 How to reach me **oulusoy@ankasoft.co** , **https://omerulusoy41.github.io/**
+- 📫 How to reach me **ulusoyomerfaruk29@gmail.com** , **https://omerulusoy41.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
