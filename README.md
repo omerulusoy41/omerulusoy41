@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=omerulusoy41&label=Profile%20views&color=0e75b6&style=flat" alt="Ömer Faruk Ulusoy>                                                                                                       
 </p>
 <h1 align="center">Hi 👋, I'm Ömer Faruk Ulusoy</h1>
-<h3 align="center">Software and Devops Developer at Ankasoft</h3>
+<h3 align="center">Software and Devops Engineer</h3>
 <h3>About me</h3>
 <p>I am Omer Faruk Ulusoy,i am student at Kocaeli Universty. My departman is Computer Enginnering. I am in 3th grade.</p>
 
